@@ -1,7 +1,7 @@
 
 import {output, getstarships, sortBy} from "./module.js";
 
-output(starshipsList);
+output();
 getstarships();
 sortBy();
 
